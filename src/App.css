@@ -1,0 +1,24 @@
+.page-login {
+    align-content: center;
+    align-self: center;
+    text-align:center
+}
+
+.form {
+    margin:0 auto;
+    min-width: 100px;
+    max-width: 350px;
+    width: 30%;
+    align-self: center;
+}
+.submit{
+margin-top: 30px;
+width: 280px;
+display : inline-block;
+
+}
+
+.div{
+    width: 280px;
+
+}

@@ -1,0 +1,16 @@
+InputItem {
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-top: 5px;
+    position: relative;
+}
+button {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+button:hover {
+    background-color: #555555;
+    color: white;
+}
